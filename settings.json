@@ -8,7 +8,7 @@
   "server": {
     "ip": "kafeka121.aternos.me",
     "port": 58664,
-    "version": "1.21.1"
+    "version": "1.20.1"
   },
   "position": {
     "enabled": true,
